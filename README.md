@@ -3,6 +3,7 @@
 本笔记本修改自 https://github.com/very-strange-developer/VITS_ColabNotebooks
 
 本笔记本Colab地址：https://colab.research.google.com/drive/1OMLymfiSHOcYMozZp6Jco_XhjRVTDNi8?usp=sharing
+
 注:本笔记本默认配置为单人训练，多人训练请自行修改配置。
 
 最近b站上VITS语音合成比较火，但是一直没有搜到一个好的训练教程，所以在github上搜索了下发现了一位韩国老哥的colab笔记本，将它汉化修改了下。
